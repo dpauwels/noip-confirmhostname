@@ -1,5 +1,5 @@
 # noip-confirmhostname
-This is a simple Python script to confirm your free no-ip hostname(s).
+This is a simple Python script to confirm your free no-ip hostname(s) when it's expiring.
 
 # INSTALL
 git clone https://github.com/dpauwels/noip-confirmhostname.git
@@ -15,7 +15,7 @@ sudo apt-get -y install python
  python no-ip_confirm_hostname.py
  ```
  
-## AUTOMATE SCRIPT
+## AUTOMATE SCRIPT WITH CRONTAB
   ```
   crontab -e
   ```

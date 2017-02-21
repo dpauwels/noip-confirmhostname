@@ -2,7 +2,9 @@
 This is a simple Python script to confirm your free no-ip hostname(s) when it's expiring.
 
 # INSTALL
+```
 git clone https://github.com/dpauwels/noip-confirmhostname.git
+```
 
 ## DEPENDENCIES
 ```

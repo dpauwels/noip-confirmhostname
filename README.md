@@ -16,9 +16,8 @@ sudo apt-get -y install python
  ```
  
 ## AUTOMATE SCRIPT
-  - Run
   ```
   crontab -e
   ```
   
-  - add line e.g "0 12 * * * $HOME/noip-confirmhostname/no-ip_confirm_hostname.py" to run the script daily at 12 am
+Add line e.g "0 12 * * * $HOME/noip-confirmhostname/no-ip_confirm_hostname.py" to run the script daily at 12 am
